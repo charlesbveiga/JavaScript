@@ -7,7 +7,7 @@
     
     
 </head>
-<body onload="carregar()">
+<body>
     <header>
         <h1>Alguns dos Exercícios desenvolvidos durante o Curso.</h1>
     </header>
@@ -20,3 +20,5 @@ Verificador de Idade, que conforme os dados inseridos, apresenta imagem e idade 
 Relógio que busca hora do sistema e apresenta imagem correspondente.
 <br></br>
 ![Hora do dia](https://user-images.githubusercontent.com/84667490/137536843-a7974c68-75b7-40d6-b7c5-61781d0101d8.png)
+</body>
+</html>
